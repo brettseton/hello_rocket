@@ -1,4 +1,4 @@
-use rocket::{Rocket, Build, routes, get};
+use rocket::{get, routes, Build, Rocket};
 
 #[get("/")]
 pub fn index() -> &'static str {
