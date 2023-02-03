@@ -2,7 +2,7 @@
 
 This is just a simple tutorial on getting unit test and benchmarks setup using Rocket in Rust.
 
-To run:
+To run app:
 
     cargo run
 
@@ -10,7 +10,7 @@ To run unit tests:
 
     cargo test
 
-To benchmarks:
+To run benchmarks:
 
     cargo bench
 
